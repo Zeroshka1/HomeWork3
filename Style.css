@@ -1,0 +1,200 @@
+body
+{
+    margin: 0;
+}
+
+#page{
+    background-image: url(Background.png);
+    background-repeat: repeat;
+    background-position: 50%;
+    background-attachment:fixed;
+}
+
+#header{
+    position: relative;
+    width: 1080px;
+    height: 153px;
+    left: 420px;
+    top: 5px;
+    width: unset;
+}
+
+.BlurBackGround
+{
+    position: static;
+    width: 1110px;
+    height: 1073px;
+    background: rgba(14, 14, 14, 0.35);
+    margin-left: 400px;
+    margin-top: -200px;
+}
+
+.Download_Win_Text
+{
+    position: absolute;
+    width: 495px;
+    height: 31px;
+    left: 456px;
+    top: 130px;
+
+    font-family: 'Mantinia';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 42px;
+
+    color: #FFFFFF;
+}
+
+/*.Download_Button{
+    
+    position: absolute;
+    width: 495px;
+    height: 31px;
+    left: 456px;
+    top: 190px;
+
+    font-family: 'Mantinia';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 25px;
+
+    color: #A5A5A5;
+}*/
+
+.Button{
+    position: absolute;
+    width: 192px;
+    height: 30.66px;
+    left: 456px;
+    top: 186px;
+}
+
+.Sub{
+    position: absolute;
+    width: 176px;
+    height: 19px;
+    left: 667px;
+    top: 177px;
+
+    font-family: 'Mantinia';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 25px;
+
+    color: #A5A5A5;
+}
+
+.Text{   
+    position: absolute;
+    width: 600px;
+    height: 49px;
+    left: 454px;
+    top: 235px;
+
+    font-family: 'Mantinia';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24.7px;
+    line-height: 29px;
+
+color: #FFFFFF;
+}
+
+.Text_Main{
+    position: absolute;
+    width: 593px;
+    height: 79px;
+    left: 450px;
+    top: 280px;
+
+    font-family: 'Mantinia';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+#des_1{
+    font-family: 'Mantinia';
+    font-style: normal;
+    font-weight: 10;
+    font-size: 18px;
+    line-height: 33px;
+
+    color: #FFFFFF;
+}
+
+#des_2{
+    font-family: 'Mantinia';
+    font-style: normal;
+    font-weight: 10;
+    font-size: 18px;
+    line-height: 33px;
+
+    color: #FFFFFF;
+}
+
+#des_3{
+
+    font-family: 'Mantinia';
+    font-style: normal;
+    font-weight: 10;
+    font-size:  18px;
+    line-height: 33px;
+
+    color: #FFFFFF;
+}
+
+#des_4{
+    font-family: 'Mantinia';
+    font-style: normal;
+    font-weight: 10;
+    font-size:  18px;
+    line-height: 33px;
+
+    color: #FFFFFF;
+}
+
+.Description{
+    position: absolute;
+    width: 653px;
+    height: 714px;
+    left: -15px;
+    top: 100px;
+    line-height: 30px;
+}
+
+.Video_YouTube{
+    margin-left: 1129px;
+    margin-top: -870px;
+    position: static;
+}
+
+#Screen_1{
+    position: absolute;
+    width: 347px;
+    height: 200px;
+    left: 1129px;
+    top: 380px;
+}
+
+#Screen_2{
+    position: absolute;
+    width: 347px;
+    height: 200px;
+    left: 1129px;
+    top: 600px;
+}
+
+#Screen_3{  
+    position: absolute;
+    width: 347px;
+    height: 200px;
+    left: 1129px;
+    top: 820px;
+}
